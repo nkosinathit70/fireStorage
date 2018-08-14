@@ -1,0 +1,7 @@
+{
+  "name": "FireStorage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
